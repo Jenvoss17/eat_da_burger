@@ -1,0 +1,18 @@
+body{
+	background-image: url("../img/burgersfaded.jpg");
+	margin-top: 20px;
+}
+
+img{
+	width: 400px;
+	height: auto;
+}
+
+.img-responsive {
+	max-height: 300px;
+}
+
+h3 {
+	color: maroon;
+	font-weight: bold;
+}

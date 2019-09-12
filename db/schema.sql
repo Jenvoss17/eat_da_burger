@@ -4,7 +4,7 @@ USE burgers_db;
 
 CREATE TABLE burgers
 (
-    id int NOT NULL
+    id int(11) NOT NULL
     AUTO_INCREMENT,
     burger_name VARCHAR
     (200) NOT NULL,
