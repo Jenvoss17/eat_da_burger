@@ -22,3 +22,4 @@ if (process.env.JAWSDB_URL) {
     });
     // Export connection
     module.exports = connection;
+}
